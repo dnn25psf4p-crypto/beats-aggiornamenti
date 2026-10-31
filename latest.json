@@ -1,7 +1,7 @@
 {
-    "version":  "2.2.3",
-    "zip":  "beats-2.2.3.zip",
-    "sha256":  "500002c9afdf11302bb53b7a87861721b587038fba352da1fee017528803f2be",
-    "notes":  "Nuovo tema Cyberpunk; la libreria di Apple non compare piu\u0027 sotto le viste di Beats",
+    "version":  "2.2.4",
+    "zip":  "beats-2.2.4.zip",
+    "sha256":  "bbd0ca20b366003424a7842f6dc6147bd5a31325590cd2bb7f0ec856acd45b82",
+    "notes":  "Piu\u0027 veloce nei cambi pagina, player sempre visibile nelle pagine di Beats, correzioni di bug",
     "date":  "2026-10-31"
 }
