@@ -1,7 +1,7 @@
 {
-    "version":  "2.2.4",
-    "zip":  "beats-2.2.4.zip",
-    "sha256":  "bbd0ca20b366003424a7842f6dc6147bd5a31325590cd2bb7f0ec856acd45b82",
-    "notes":  "Piu\u0027 veloce nei cambi pagina, player sempre visibile nelle pagine di Beats, correzioni di bug",
+    "version":  "2.2.5",
+    "zip":  "beats-2.2.5.zip",
+    "sha256":  "662faced185ec46aef4ea3ad7d4049c1dd013f9d396d442d313e43cc5e3c8368",
+    "notes":  "Discord funziona da solo, niente piu\u0027 sfarfallio sui monitor secondari, barra a schermo intero piu\u0027 pulita",
     "date":  "2026-10-31"
 }
