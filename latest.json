@@ -1,7 +1,7 @@
 {
-    "version":  "2.2.5",
-    "zip":  "beats-2.2.5.zip",
-    "sha256":  "662faced185ec46aef4ea3ad7d4049c1dd013f9d396d442d313e43cc5e3c8368",
-    "notes":  "Discord funziona da solo, niente piu\u0027 sfarfallio sui monitor secondari, barra a schermo intero piu\u0027 pulita",
-    "date":  "2026-10-31"
+    "version":  "2.2.6",
+    "zip":  "beats-2.2.6.zip",
+    "sha256":  "dac668f18a85b0c05d218d2adb78f4895eb87c8f57532050cd8477cc3fd52700",
+    "notes":  "AirPlay su HomePod e Apple TV, uscita su Echo via Bluetooth, testo piu preciso, libreria immediata, brani che partono prima, coda al posto del testo anche in finestra, volume con la rotellina, piu trasparenze, consumi ridotti e nuovo tema con graffiti e luci viola.",
+    "date":  "2026-11-04"
 }
