@@ -1,7 +1,7 @@
 {
-    "version":  "2.2.6",
-    "zip":  "beats-2.2.6.zip",
-    "sha256":  "dac668f18a85b0c05d218d2adb78f4895eb87c8f57532050cd8477cc3fd52700",
-    "notes":  "AirPlay su HomePod e Apple TV, uscita su Echo via Bluetooth, testo piu preciso, libreria immediata, brani che partono prima, coda al posto del testo anche in finestra, volume con la rotellina, piu trasparenze, consumi ridotti e nuovo tema con graffiti e luci viola.",
+    "version":  "2.2.7",
+    "zip":  "beats-2.2.7.zip",
+    "sha256":  "963b48a8c7af700d8a4f74b6c2c0ccaa49e6de5e8b8afe5b12295a26dbaaa78d",
+    "notes":  "Pagine molto piu\u0027 veloci: Home, album e artisti si aprono senza ricaricare Apple Music; Tutte le playlist, Aggiunti di recente, Radio, Novita\u0027 e Artisti si aprono subito dalla seconda volta. La barra laterale resta visibile in Brani, Album e Artisti. Il logo Beats porta alla Home, anche dal lettore grande. Testo e coda piu\u0027 fluidi. Il tema si chiama ora Gengy. Nuove animazioni nel tema Cyberpunk. Discord: attivita\u0027 piu\u0027 affidabile e riga di stato nelle impostazioni.",
     "date":  "2026-11-04"
 }
