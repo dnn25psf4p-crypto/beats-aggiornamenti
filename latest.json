@@ -1,7 +1,7 @@
 {
-    "version":  "2.2.10",
-    "zip":  "beats-2.2.10.zip",
-    "sha256":  "43fe2df9ff02df726f67c7a3fcde03412cac6a4de6b29ca9434525e267e22de0",
-    "notes":  "Meno peso sui giochi: quando Beats non e\u0027 in primo piano si fermano animazioni e copertine video e la musica continua (si puo\u0027 disattivare in Impostazioni \u003e Aspetto). Tolta la lente dalla barra in alto: la ricerca rapida resta su Ctrl+K. Aprendo Brani, Album o Artisti il lettore grande ora si chiude.",
-    "date":  "2026-11-04"
+    "version":  "2.2.11",
+    "zip":  "beats-2.2.11.zip",
+    "sha256":  "39a694e70fa441da93ef0a2555f9774cbf36749de2bf0e5507fd514f3473a294",
+    "notes":  "Tolta la voce Galleria temi dalle impostazioni. Include le novita\u0027 della 2.2.10: meno peso sui giochi quando Beats non e\u0027 in primo piano.",
+    "date":  "2026-11-05"
 }
