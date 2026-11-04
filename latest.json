@@ -1,7 +1,7 @@
 {
-    "version":  "2.2.8",
-    "zip":  "beats-2.2.8.zip",
-    "sha256":  "c6bc719fe63305a6c0f67c9d178ca7cbbae2ea44e0a09e28c078b6a797d9bc7a",
-    "notes":  "Nuova pagina Temi con categorie Animati e Statici e barra di ricerca, piu\u0027 7 temi a tinta unita. Corretto il passaggio tra testo e coda nel lettore grande. Tolto il cursore personalizzato dal tema Gengy.",
+    "version":  "2.2.9",
+    "zip":  "beats-2.2.9.zip",
+    "sha256":  "199aa61a5cc44e287fea9e2e97407b1c07aa6daafd8891b75fdb104b599fda8f",
+    "notes":  "Barra laterale con il nome Beats, icona in alto che porta alla Home e barra del lettore piu\u0027 lunga con il pulsante AirPlay. Barra spaziatrice per play e pausa nel lettore a schermo intero. Uscita dallo schermo intero piu\u0027 affidabile e passaggio tra testo e coda piu\u0027 fluido. Preparazione per Linux.",
     "date":  "2026-11-04"
 }
