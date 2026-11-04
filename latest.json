@@ -1,7 +1,7 @@
 {
-    "version":  "2.2.7",
-    "zip":  "beats-2.2.7.zip",
-    "sha256":  "963b48a8c7af700d8a4f74b6c2c0ccaa49e6de5e8b8afe5b12295a26dbaaa78d",
-    "notes":  "Pagine molto piu\u0027 veloci: Home, album e artisti si aprono senza ricaricare Apple Music; Tutte le playlist, Aggiunti di recente, Radio, Novita\u0027 e Artisti si aprono subito dalla seconda volta. La barra laterale resta visibile in Brani, Album e Artisti. Il logo Beats porta alla Home, anche dal lettore grande. Testo e coda piu\u0027 fluidi. Il tema si chiama ora Gengy. Nuove animazioni nel tema Cyberpunk. Discord: attivita\u0027 piu\u0027 affidabile e riga di stato nelle impostazioni.",
+    "version":  "2.2.8",
+    "zip":  "beats-2.2.8.zip",
+    "sha256":  "c6bc719fe63305a6c0f67c9d178ca7cbbae2ea44e0a09e28c078b6a797d9bc7a",
+    "notes":  "Nuova pagina Temi con categorie Animati e Statici e barra di ricerca, piu\u0027 7 temi a tinta unita. Corretto il passaggio tra testo e coda nel lettore grande. Tolto il cursore personalizzato dal tema Gengy.",
     "date":  "2026-11-04"
 }
