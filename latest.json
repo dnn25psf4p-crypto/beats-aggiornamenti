@@ -1,7 +1,7 @@
 {
-    "version":  "2.2.12",
-    "zip":  "beats-2.2.12.zip",
-    "sha256":  "6b3080afefda0f76e7728c28aa5951b2e50a9cd07d2f592a8c051bf542f5058f",
-    "notes":  "Tolti i campi CSS dalle Impostazioni: Personalizzazione avanzata piu\u0027 semplice.",
+    "version":  "2.2.13",
+    "zip":  "beats-2.2.13.zip",
+    "sha256":  "86b14fc5c796522efbd3e76bad8fe309b72e001fe1f59a357a3c9c52d0bb7fd1",
+    "notes":  "Home piu\u0027 veloce: le copertine video spente non avviano piu\u0027 i lettori e la pagina si apre subito.",
     "date":  "2026-11-05"
 }
