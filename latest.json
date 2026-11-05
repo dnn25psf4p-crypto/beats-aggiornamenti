@@ -1,7 +1,7 @@
 {
-    "version":  "2.2.13",
-    "zip":  "beats-2.2.13.zip",
-    "sha256":  "86b14fc5c796522efbd3e76bad8fe309b72e001fe1f59a357a3c9c52d0bb7fd1",
-    "notes":  "Home piu\u0027 veloce: le copertine video spente non avviano piu\u0027 i lettori e la pagina si apre subito.",
+    "version":  "2.2.14",
+    "zip":  "beats-2.2.14.zip",
+    "sha256":  "385279ccdf7b1bc90af9056e4dcddb90e0b3b110b53d78fb5acf8f8ef8bd9e11",
+    "notes":  "Effetti sempre attivi anche con Beats in secondo piano, app piu\u0027 leggera e fluida, lettore grande adattato alla finestra divisa.",
     "date":  "2026-11-05"
 }
