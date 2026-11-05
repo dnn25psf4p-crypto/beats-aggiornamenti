@@ -1,7 +1,7 @@
 {
-    "version":  "2.2.11",
-    "zip":  "beats-2.2.11.zip",
-    "sha256":  "39a694e70fa441da93ef0a2555f9774cbf36749de2bf0e5507fd514f3473a294",
-    "notes":  "Tolta la voce Galleria temi dalle impostazioni. Include le novita\u0027 della 2.2.10: meno peso sui giochi quando Beats non e\u0027 in primo piano.",
+    "version":  "2.2.12",
+    "zip":  "beats-2.2.12.zip",
+    "sha256":  "6b3080afefda0f76e7728c28aa5951b2e50a9cd07d2f592a8c051bf542f5058f",
+    "notes":  "Tolti i campi CSS dalle Impostazioni: Personalizzazione avanzata piu\u0027 semplice.",
     "date":  "2026-11-05"
 }
