@@ -1,7 +1,7 @@
 {
-    "version":  "2.2.14",
-    "zip":  "beats-2.2.14.zip",
-    "sha256":  "385279ccdf7b1bc90af9056e4dcddb90e0b3b110b53d78fb5acf8f8ef8bd9e11",
-    "notes":  "Effetti sempre attivi anche con Beats in secondo piano, app piu\u0027 leggera e fluida, lettore grande adattato alla finestra divisa.",
-    "date":  "2026-11-05"
+    "version":  "2.2.15",
+    "zip":  "beats-2.2.15.zip",
+    "sha256":  "14b787329693701eee97baca64a8d4f37893373e36511cc85952adb5d22eb730",
+    "notes":  "Beats piu\u0027 leggera e fluida: sfondo mosso dalla scheda video, pagine principali subito pronte, testo e coda del lettore grande sistemati, passaggi piu\u0027 morbidi.",
+    "date":  "2026-11-07"
 }
