@@ -1,7 +1,7 @@
 {
-    "version":  "2.2.15",
-    "zip":  "beats-2.2.15.zip",
-    "sha256":  "14b787329693701eee97baca64a8d4f37893373e36511cc85952adb5d22eb730",
-    "notes":  "Beats piu\u0027 leggera e fluida: sfondo mosso dalla scheda video, pagine principali subito pronte, testo e coda del lettore grande sistemati, passaggi piu\u0027 morbidi.",
-    "date":  "2026-11-07"
+    "version":  "2.2.16",
+    "zip":  "beats-2.2.16.zip",
+    "sha256":  "e4d59fc388bf060236ba833ce6caec40a4b9d10713d7df5c38fe008704993214",
+    "notes":  "Testo del lettore grande a tempo con la musica, parola per parola, anche quando un brano passa da solo al successivo. La riga corrente resta al centro del riquadro.",
+    "date":  "2026-11-08"
 }
