@@ -1,7 +1,7 @@
 {
-    "version":  "2.2.18",
-    "zip":  "beats-2.2.18.zip",
-    "sha256":  "95b129a587bf830bd08cd4358502109e41250bb9d6e26b6bc7a1e9edcce61bde",
-    "notes":  "Nuovi effetti a ritmo di musica nel lettore grande: Spettro, Scintille, Aurora e Linea, oltre alle Onde. Anche il Bagliore ora segue i bassi. Si scelgono nelle Impostazioni (Lettore grande), con un interruttore per spegnerli del tutto.",
+    "version":  "2.2.19",
+    "zip":  "beats-2.2.19.zip",
+    "sha256":  "9367565b5a17482ba9346815a778fc4bb9bcf1cdce7f65071fcc2bde6cfa8cb5",
+    "notes":  "Gli effetti ora seguono davvero il ritmo: riconoscono i colpi di batteria e il tempo del brano, e si muovono quando il suono si sente. Quattro nuovi effetti: Raggi, Matrice, Anelli e Fuochi. Nel lettore grande i pulsanti rimbalzano quando li premi, e Casuale e Ripeti accesi hanno l\u0027icona colorata.",
     "date":  "2026-11-14"
 }
