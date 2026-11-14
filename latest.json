@@ -1,7 +1,7 @@
 {
-    "version":  "2.2.19",
-    "zip":  "beats-2.2.19.zip",
-    "sha256":  "9367565b5a17482ba9346815a778fc4bb9bcf1cdce7f65071fcc2bde6cfa8cb5",
-    "notes":  "Gli effetti ora seguono davvero il ritmo: riconoscono i colpi di batteria e il tempo del brano, e si muovono quando il suono si sente. Quattro nuovi effetti: Raggi, Matrice, Anelli e Fuochi. Nel lettore grande i pulsanti rimbalzano quando li premi, e Casuale e Ripeti accesi hanno l\u0027icona colorata.",
+    "version":  "2.2.20",
+    "zip":  "beats-2.2.20.zip",
+    "sha256":  "bc3e990c83b09578369199a21cf47b46a5ac1ead1f94c58f0194f669a8da792a",
+    "notes":  "Tolti gli effetti Raggi e Anelli, al loro posto la nuova Costellazione: punti di luce uniti da fili che respirano con il brano. Nel lettore grande la riga del testo che si illumina ora sta in alto.",
     "date":  "2026-11-14"
 }
