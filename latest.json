@@ -1,7 +1,7 @@
 {
-    "version":  "2.2.17",
-    "zip":  "beats-2.2.17.zip",
-    "sha256":  "5f223b448e23d8f3e45f724e541c6fd56b84dd3f50ba6c4c2ef4a9512c135fe9",
-    "notes":  "Nuovo tema Steampunk, discreto, con ingranaggi sottili. Le barre del lettore grande diventano onde intrecciate che seguono il ritmo del brano. Premendo la X scegli se lasciare Beats in background o chiuderla (si cambia nelle Impostazioni). Il clic sulla canzone apre sempre il lettore grande, anche da Temi e Impostazioni.",
+    "version":  "2.2.18",
+    "zip":  "beats-2.2.18.zip",
+    "sha256":  "95b129a587bf830bd08cd4358502109e41250bb9d6e26b6bc7a1e9edcce61bde",
+    "notes":  "Nuovi effetti a ritmo di musica nel lettore grande: Spettro, Scintille, Aurora e Linea, oltre alle Onde. Anche il Bagliore ora segue i bassi. Si scelgono nelle Impostazioni (Lettore grande), con un interruttore per spegnerli del tutto.",
     "date":  "2026-11-14"
 }
