@@ -1,7 +1,7 @@
 {
-    "version":  "2.2.16",
-    "zip":  "beats-2.2.16.zip",
-    "sha256":  "e4d59fc388bf060236ba833ce6caec40a4b9d10713d7df5c38fe008704993214",
-    "notes":  "Testo del lettore grande a tempo con la musica, parola per parola, anche quando un brano passa da solo al successivo. La riga corrente resta al centro del riquadro.",
-    "date":  "2026-11-08"
+    "version":  "2.2.17",
+    "zip":  "beats-2.2.17.zip",
+    "sha256":  "5f223b448e23d8f3e45f724e541c6fd56b84dd3f50ba6c4c2ef4a9512c135fe9",
+    "notes":  "Nuovo tema Steampunk, discreto, con ingranaggi sottili. Le barre del lettore grande diventano onde intrecciate che seguono il ritmo del brano. Premendo la X scegli se lasciare Beats in background o chiuderla (si cambia nelle Impostazioni). Il clic sulla canzone apre sempre il lettore grande, anche da Temi e Impostazioni.",
+    "date":  "2026-11-14"
 }
